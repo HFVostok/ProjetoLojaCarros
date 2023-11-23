@@ -6,7 +6,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-import Connection.CarrosDAO;
 import Connection.ClientesDAO;
 import Model.Clientes;
 
